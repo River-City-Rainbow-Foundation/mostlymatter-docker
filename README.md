@@ -8,7 +8,7 @@ A minimal Docker container for running [MostlyMatter](https://packages.framasoft
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/River-City-Rainbow-Foundation/mostlymatter-docker
    cd mostlymatter-docker
    ```
 
